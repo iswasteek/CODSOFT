@@ -1,3 +1,6 @@
 [submodule "Portfolio-task2"]
 	path = Portfolio-task2
 	url = https://github.com/iswasteek/My-Portfolio.git
+[submodule "Calculator-task3"]
+	path = Calculator-task3
+	url = https://github.com/iswasteek/Calculator.git
