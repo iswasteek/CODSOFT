@@ -136,7 +136,7 @@ button {
   padding: 20px 25px;
   position: fixed;
   z-index: 9;
-  background: url("/CODSOFT/Landing page (task-1)/images/header.jpg");
+  background: url("/Landing page (task-1)/images/header.jpg");
   background-size: 100% 100%;
   background-position: center;
   background-repeat: no-repeat;
@@ -198,7 +198,7 @@ ul.site_menu li a {
 /** banner section **/
 
 .full_bg {
-  background: url("/CODSOFT/Landing page (task-1)/images/banner1.jpg");
+  background: url("/Landing page (task-1)/images/banner1.jpg");
   background-size: 100% 100%;
   background-position: center;
   background-repeat: no-repeat;
@@ -323,7 +323,7 @@ ul.site_menu li a {
 }
 
 .bg_about {
-  background: url("/CODSOFT/Landing page (task-1)/images/bg_about.png");
+  background: url("/Landing page (task-1)/images/bg_about.png");
   background-repeat: no-repeat;
   background-size: 100% 100%;
   padding: 50px 0;
@@ -418,7 +418,7 @@ ul.site_menu li a {
 
 .contact {
   font-family: "Poppins", sans-serif;
-  background: url("/CODSOFT/Landing page (task-1)/images/contact_bg.jpg");
+  background: url("/Landing page (task-1)/images/contact_bg.jpg");
   background-size: 100% 100%;
   background-position: center;
   background-repeat: no-repeat;
